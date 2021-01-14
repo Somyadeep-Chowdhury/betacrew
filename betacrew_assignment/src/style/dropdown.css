@@ -1,0 +1,14 @@
+.img_tag {
+    margin: 25px auto;
+    position: absolute;
+    right: 0;
+    left: 0;
+    width: 75%;
+}
+
+._box {
+    position: fixed;
+    width: 200px;
+    height: 25px;
+    border: 3px solid;
+}

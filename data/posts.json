@@ -1,0 +1,44 @@
+[
+  {
+    "x": 718,
+    "y": 352,
+    "message": "elephant1",
+    "name": "elephant"
+  },
+  {
+    "x": 385,
+    "y": 556,
+    "message": "new ele",
+    "name": "elephant"
+  },
+  {
+    "x": 1186,
+    "y": 269,
+    "message": "third",
+    "name": "elephant"
+  },
+  {
+    "x": 365,
+    "y": 263,
+    "message": "vic 1",
+    "name": "victoria"
+  },
+  {
+    "x": 809,
+    "y": 566,
+    "message": "hhh",
+    "name": "elephant"
+  },
+  {
+    "x": 1953,
+    "y": 313,
+    "message": "hello",
+    "name": "elephant"
+  },
+  {
+    "x": 739,
+    "y": 290,
+    "message": "vic2",
+    "name": "victoria"
+  }
+]
